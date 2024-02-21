@@ -5,4 +5,4 @@ def alunos(request):
         aluno = {'id': 1, 'nome':'Guilherme'}
         return JsonResponse(aluno)
 
-# Create your views here.
+
